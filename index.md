@@ -71,7 +71,7 @@ Distill also occupies institutional space, potentially discouraging others from 
 
 On the flip side, Distill often comes up in conversations about the future of publishers and journals in machine learning, as a positive example of the role a journal can play. But if we no longer believe in our model, Distill may be unintentionally supporting something we don’t really stand behind. We may also be setting unrealistic aspirations: if Distill’s level of editorial engagement and editing was unsustainable, even with a deeply passionate set of volunteers and a relatively small number of articles, we should at least be clearly communicating how difficult it is.
 
-## Why a hiatus?
+## Why a Hiatus?
 
 We think that Distill is a really beautiful artifact which illustrates a vision of scientific publishing. But it is not sustainable for us to continue running the journal in its current form. We think preserving it in its present state is more valuable than diluting it with lower quality editing. We also think that it’s a lot healthier for us and frees up our energy to do new projects that provide value to the community.
 
