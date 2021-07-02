@@ -54,7 +54,7 @@ const document = (article) => `
 <body>
   <d-front-matter>
     <script type="text/json">{
-      "title": "Distill Hiatus",
+      "title": "Distill One-Year Hiatus",
       "description": "After five years, Distill will be taking a break.",
       "authors": [
         {
