@@ -21,6 +21,8 @@ Our sense is that Distill’s journal structure may limit, rather than support, 
 
 Instead, we think the future for most types of articles is probably self-publication, either on one-off websites or on a hypothetical “Distill Arxiv.” There are a few exceptions where we think centralized journal-like entities probably have an important enduring role, but we think the majority of papers are best served by self-publication.
 
+## Changes in How We Think About Distill
+
 ### Mentorship is in Tension with Being a Journal
 
 Behind the scenes, the largest function of Distill is providing feedback and mentorship. For some of our early articles, we provided more than 50 hours of help with designing diagrams, improving writing style, and shaping scientific communication. Although we’ve generally dialed this down over time, each article still requires significant work. All of this is done by our editors in a volunteer capacity, on top of their regular work responsibilities.
@@ -69,11 +71,11 @@ Distill also occupies institutional space, potentially discouraging others from 
 
 On the flip side, Distill often comes up in conversations about the future of publishers and journals in machine learning, as a positive example of the role a journal can play. But if we no longer believe in our model, Distill may be unintentionally supporting something we don’t really stand behind. We may also be setting unrealistic aspirations: if Distill’s level of editorial engagement and editing was unsustainable, even with a deeply passionate set of volunteers and a relatively small number of articles, we should at least be clearly communicating how difficult it is.
 
-### Why the hiatus?
+## Why a hiatus?
 
 We think that Distill is a really beautiful artifact which illustrates a vision of scientific publishing. But it is not sustainable for us to continue running the journal in its current form. We think preserving it in its present state is more valuable than diluting it with lower quality editing. We also think that it’s a lot healthier for us and frees up our energy to do new projects that provide value to the community.
 
-We’ve considered trying to find others to hand Distill off to. But a lot of the value of Distill is illustrating a weird and idiosyncratic vision. We think there’s value in preserving Distill’s original flavor.
+We’ve considered trying to find others to hand Distill off to. But a lot of the value of Distill is illustrating a weird and idiosyncratic vision. We think there’s value in preserving Distill’s original flavor. We are open to changes to better structure Distill, but we feel protective of Distill's vision and quirkiness.
 
 Although Distill is going on hiatus, the <a href="https://github.com/distillpub/template">Distill template</a> is open source, and we’d love to see others run with it!
 
