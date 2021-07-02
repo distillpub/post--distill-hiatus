@@ -68,7 +68,7 @@ const document = (article) => `
   </d-front-matter>
 
   <d-title>
-    <h1>Distill is Taking a One-year Hiatus</h1>
+    <h1>Distill Hiatus</h1>
   </d-title>
 
   <d-article>${article}</d-article>
