@@ -76,6 +76,9 @@ const document = (article) => `
   <d-appendix>
     <h3>Author Contributions</h3>
     <p>This article was drafted by Chris Olah, Nick Cammarata, Sam Greydanus, and Janelle Tam.</p>
+    <h3>Acknowledgements</h3>
+    <p>Distill has been supported by too many people over the years to have any hope of thanking everyone. We're especially grateful to Distill's authors for investing so much in their articles, and to our reviewers for generously giving so much time to help Distill.
+    We're also grateful to the many people who helped us as we struggled with this decision over the last few years. Many people took time to talk with us about burn out, about whether Distill was a good structure, about how to wind Distill down graciously, and about this essay. We're also grateful to past and present Distill authors for being so understanding of our decision.</p>
 
     <d-footnote-list></d-footnote-list>
     <d-citation-list></d-citation-list>
